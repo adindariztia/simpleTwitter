@@ -1,4 +1,4 @@
--># Halo!<-
+<center> # Halo! </center>
 
 
 **app.py** berisi file utama buat eksekusi keseluruhan back-end nya
