@@ -1,5 +1,5 @@
-# Halo!
-## repo berikut berisi tugas back-end twitter super sederhana
+-># Halo!<-
+
 
 **app.py** berisi file utama buat eksekusi keseluruhan back-end nya
 
